@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Pavel Chowdhury | Mechanical Engineering</title>
+
+    <meta name="description"
+        content="Personal academic and research portfolio of Pavel Chowdhury, Mechanical Engineering graduate student specializing in advanced materials, composites, and computational mechanics.">
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:wght@600;700&display=swap"
+          rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <header class="navbar">
+        <div class="nav-container">
+
+            <a href="#home" class="logo">PC</a>
+
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#research">Research</a></li>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+
+            <button class="menu-button" aria-label="Open navigation menu">
+                ☰
+            </button>
+
+        </div>
+    </header>
+
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+
+        <div class="container hero-container">
+
+            <div class="hero-content">
+
+                <p class="eyebrow">
+                    MECHANICAL ENGINEERING · MATERIALS RESEARCH
+                </p>
+
+                <h1>Pavel<br>Chowdhury</h1>
+
+                <h2>
+                    Graduate Student in Mechanical Engineering
+                </h2>
+
+                <p class="hero-description">
+                    I am a Mechanical Engineering graduate student with
+                    research interests in advanced materials, polymer
+                    composites, soft materials, and computational mechanics.
+                    My work combines experimental characterization,
+                    numerical modeling, and materials development.
+                </p>
+
+                <div class="hero-buttons">
+                    <a href="#research" class="button primary-button">
+                        View Research
+                    </a>
+
+                    <a href="assets/Pavel_Chowdhury_Resume.pdf"
+                       class="button secondary-button"
+                       target="_blank">
+                        Resume
+                    </a>
+                </div>
+
+            </div>
+
+
+            <div class="hero-side">
+
+                <div class="profile-card">
+
+                    <div class="profile-initials">
+                        PC
+                    </div>
+
+                    <div class="profile-info">
+                        <p class="profile-name">Pavel Chowdhury</p>
+
+                        <p>
+                            M.S. Mechanical Engineering<br>
+                            Utah State University
+                        </p>
+
+                        <span class="status">
+                            Researcher · Engineer
+                        </span>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- About -->
+    <section id="about" class="section">
+
+        <div class="container">
+
+            <div class="section-heading">
+                <p class="section-label">01</p>
+
+                <div>
+                    <h2>About Me</h2>
+
+                    <p class="section-intro">
+                        My academic and research interests focus on understanding
+                        the behavior of advanced materials and developing
+                        engineering solutions through experimental and
+                        computational approaches.
+                    </p>
+                </div>
+            </div>
+
+
+            <div class="about-grid">
+
+                <div class="about-text">
+
+                    <p>
+                        I am currently pursuing a Master of Science in
+                        Mechanical Engineering at Utah State University.
+                        My research interests include composite materials,
+                        polymer-based materials, soft materials, computational
+                        mechanics, and materials for aerospace applications.
+                    </p>
+
+                    <p>
+                        My previous research experience includes polymer matrix
+                        composites, nanoparticle dispersion, mechanical testing,
+                        and materials characterization using techniques such as
+                        scanning electron microscopy and FTIR analysis.
+                    </p>
+
+                    <p>
+                        I am particularly interested in combining experimental
+                        research with computational methods, including molecular
+                        dynamics and finite element analysis, to better understand
+                        material behavior across multiple length scales.
+                    </p>
+
+                </div>
+
+
+                <div class="research-interests">
+
+                    <h3>Research Interests</h3>
+
+                    <ul>
+                        <li>Advanced Composite Materials</li>
+                        <li>Polymer Matrix Composites</li>
+                        <li>Soft Materials & Soft Robotics</li>
+                        <li>Computational Mechanics</li>
+                        <li>Molecular Dynamics Simulation</li>
+                        <li>Finite Element Analysis</li>
+                        <li>Materials Characterization</li>
+                        <li>Aerospace Materials</li>
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Research -->
+    <section id="research" class="section section-alt">
+
+        <div class="container">
+
+            <div class="section-heading">
+
+                <p class="section-label">02</p>
+
+                <div>
+                    <h2>Research & Projects</h2>
+
+                    <p class="section-intro">
+                        Selected research experiences and technical projects
+                        involving advanced materials, simulations, and
+                        experimental mechanics.
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="project-grid">
+
+
+                <!-- Project 1 -->
+                <article class="project-card">
+
+                    <div class="project-number">01</div>
+
+                    <p class="project-category">
+                        COMPOSITE MATERIALS
+                    </p>
+
+                    <h3>
+                        Hierarchical Polymer Composites for Aerospace Applications
+                    </h3>
+
+                    <p>
+                        Research involving polymer matrix composites and
+                        nanoparticle-based reinforcement strategies for
+                        improving mechanical performance and developing
+                        advanced structural materials.
+                    </p>
+
+                    <div class="project-tags">
+                        <span>Composites</span>
+                        <span>Polymers</span>
+                        <span>Nanomaterials</span>
+                        <span>Mechanical Testing</span>
+                    </div>
+
+                </article>
+
+
+                <!-- Project 2 -->
+                <article class="project-card">
+
+                    <div class="project-number">02</div>
+
+                    <p class="project-category">
+                        SOFT MATERIALS
+                    </p>
+
+                    <h3>
+                        Soft Pneumatic Actuators
+                    </h3>
+
+                    <p>
+                        Investigation of deformation and bending behavior in
+                        soft pneumatic actuators using elastomeric materials
+                        and discrete actuation chambers.
+                    </p>
+
+                    <div class="project-tags">
+                        <span>Soft Robotics</span>
+                        <span>Elastomers</span>
+                        <span>Hyperelasticity</span>
+                        <span>Experimental Mechanics</span>
+                    </div>
+
+                </article>
+
+
+                <!-- Project 3 -->
+                <article class="project-card">
+
+                    <div class="project-number">03</div>
+
+                    <p class="project-category">
+                        MOLECULAR SIMULATION
+                    </p>
+
+                    <h3>
+                        Molecular Dynamics of Polymer Materials
+                    </h3>
+
+                    <p>
+                        Computational investigation of polymer systems using
+                        molecular dynamics simulations to study material
+                        structure, thermal behavior, and molecular-level
+                        interactions.
+                    </p>
+
+                    <div class="project-tags">
+                        <span>LAMMPS</span>
+                        <span>Molecular Dynamics</span>
+                        <span>Polymers</span>
+                        <span>Python</span>
+                    </div>
+
+                </article>
+
+
+                <!-- Project 4 -->
+                <article class="project-card">
+
+                    <div class="project-number">04</div>
+
+                    <p class="project-category">
+                        COMPUTATIONAL MECHANICS
+                    </p>
+
+                    <h3>
+                        Finite Element Modeling
+                    </h3>
+
+                    <p>
+                        Development of numerical models for solving mechanics
+                        and engineering problems using finite element methods
+                        and scientific computing tools.
+                    </p>
+
+                    <div class="project-tags">
+                        <span>FEM</span>
+                        <span>FEniCSx</span>
+                        <span>PETSc</span>
+                        <span>Python</span>
+                    </div>
+
+                </article>
+
+
+                <!-- Project 5 -->
+                <article class="project-card">
+
+                    <div class="project-number">05</div>
+
+                    <p class="project-category">
+                        MATERIALS CHARACTERIZATION
+                    </p>
+
+                    <h3>
+                        Experimental Characterization of Polymer Composites
+                    </h3>
+
+                    <p>
+                        Experimental analysis of material properties through
+                        mechanical testing and characterization techniques
+                        including scanning electron microscopy and FTIR.
+                    </p>
+
+                    <div class="project-tags">
+                        <span>SEM</span>
+                        <span>FTIR</span>
+                        <span>Mechanical Testing</span>
+                        <span>DIC</span>
+                    </div>
+
+                </article>
+
+
+                <!-- Project 6 -->
+                <article class="project-card">
+
+                    <div class="project-number">06</div>
+
+                    <p class="project-category">
+                        LIQUID CRYSTAL ELASTOMERS
+                    </p>
+
+                    <h3>
+                        Liquid Crystal Elastomer Materials
+                    </h3>
+
+                    <p>
+                        Study of liquid crystal elastomer systems and their
+                        material behavior, including polymer chemistry,
+                        molecular alignment, and responsive mechanical
+                        properties.
+                    </p>
+
+                    <div class="project-tags">
+                        <span>LCE</span>
+                        <span>Smart Materials</span>
+                        <span>Polymers</span>
+                        <span>Materials Science</span>
+                    </div>
+
+                </article>
+
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Education -->
+    <section id="education" class="section">
+
+        <div class="container">
+
+            <div class="section-heading">
+
+                <p class="section-label">03</p>
+
+                <div>
+                    <h2>Education</h2>
+                </div>
+
+            </div>
+
+
+            <div class="timeline">
+
+
+                <div class="timeline-item">
+
+                    <div class="timeline-date">
+                        2025 — Present
+                    </div>
+
+                    <div class="timeline-content">
+
+                        <h3>Utah State University</h3>
+
+                        <h4>
+                            Master of Science in Mechanical Engineering
+                        </h4>
+
+                        <p>
+                            Graduate studies focused on advanced mechanics,
+                            materials science, computational methods, and
+                            mechanical engineering.
+                        </p>
+
+                        <p class="location">
+                            Logan, Utah, United States
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+                <div class="timeline-item">
+
+                    <div class="timeline-date">
+                        2017 — 2022
+                    </div>
+
+                    <div class="timeline-content">
+
+                        <h3>
+                            Military Institute of Science and Technology
+                        </h3>
+
+                        <h4>
+                            Bachelor of Science in Aeronautical Engineering
+                        </h4>
+
+                        <p>
+                            Undergraduate education in aerospace and
+                            aeronautical engineering, including mechanics,
+                            structures, materials, propulsion, and related
+                            engineering disciplines.
+                        </p>
+
+                        <p class="location">
+                            Dhaka, Bangladesh
+                        </p>
+
+                    </div>
+
+                </div>
+
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Skills -->
+    <section id="skills" class="section section-alt">
+
+        <div class="container">
+
+            <div class="section-heading">
+
+                <p class="section-label">04</p>
+
+                <div>
+                    <h2>Technical Skills</h2>
+
+                    <p class="section-intro">
+                        Engineering software, scientific computing tools,
+                        simulation methods, and experimental techniques.
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="skills-grid">
+
+
+                <div class="skill-category">
+                    <h3>Programming & Computing</h3>
+
+                    <ul>
+                        <li>Python</li>
+                        <li>MATLAB</li>
+                        <li>C / C++</li>
+                        <li>NumPy</li>
+                        <li>Matplotlib</li>
+                        <li>Scientific Computing</li>
+                    </ul>
+                </div>
+
+
+                <div class="skill-category">
+                    <h3>Simulation & Modeling</h3>
+
+                    <ul>
+                        <li>ABAQUS</li>
+                        <li>LAMMPS</li>
+                        <li>FEniCSx / DOLFINx</li>
+                        <li>Finite Element Analysis</li>
+                        <li>Molecular Dynamics</li>
+                        <li>Numerical Methods</li>
+                    </ul>
+                </div>
+
+
+                <div class="skill-category">
+                    <h3>Experimental Methods</h3>
+
+                    <ul>
+                        <li>Mechanical Testing</li>
+                        <li>Digital Image Correlation</li>
+                        <li>Scanning Electron Microscopy</li>
+                        <li>FTIR Analysis</li>
+                        <li>Materials Characterization</li>
+                        <li>Data Analysis</li>
+                    </ul>
+                </div>
+
+
+                <div class="skill-category">
+                    <h3>Visualization & Tools</h3>
+
+                    <ul>
+                        <li>OVITO</li>
+                        <li>ParaView</li>
+                        <li>Microsoft Office</li>
+                        <li>LaTeX</li>
+                        <li>Git / GitHub</li>
+                        <li>Linux / HPC Computing</li>
+                    </ul>
+                </div>
+
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Experience -->
+    <section id="experience" class="section">
+
+        <div class="container">
+
+            <div class="section-heading">
+
+                <p class="section-label">05</p>
+
+                <div>
+                    <h2>Experience</h2>
+                </div>
+
+            </div>
+
+
+            <div class="experience-list">
+
+
+                <article class="experience-item">
+
+                    <div class="experience-meta">
+                        <p>Teaching</p>
+                    </div>
+
+                    <div class="experience-main">
+
+                        <h3>
+                            Teaching Assistant — Mechanics of Solids
+                        </h3>
+
+                        <p class="experience-place">
+                            Utah State University
+                        </p>
+
+                        <p>
+                            Assisted students with course concepts and
+                            problem-solving, conducted office hours, graded
+                            assignments and examinations, and supported course
+                            instruction and communication.
+                        </p>
+
+                    </div>
+
+                </article>
+
+
+                <article class="experience-item">
+
+                    <div class="experience-meta">
+                        <p>Research</p>
+                    </div>
+
+                    <div class="experience-main">
+
+                        <h3>
+                            Research Experience in Composite Materials
+                        </h3>
+
+                        <p class="experience-place">
+                            Materials & Aerospace Engineering Research
+                        </p>
+
+                        <p>
+                            Conducted research on polymer matrix composites,
+                            nanoparticle dispersion, material development,
+                            mechanical testing, and microstructural
+                            characterization.
+                        </p>
+
+                    </div>
+
+                </article>
+
+
+                <article class="experience-item">
+
+                    <div class="experience-meta">
+                        <p>Industry</p>
+                    </div>
+
+                    <div class="experience-main">
+
+                        <h3>
+                            Aerospace Industry Internship
+                        </h3>
+
+                        <p class="experience-place">
+                            Aviation Industry, Bangladesh
+                        </p>
+
+                        <p>
+                            Gained practical exposure to aerospace and
+                            engineering operations and developed professional
+                            experience in a technical working environment.
+                        </p>
+
+                    </div>
+
+                </article>
+
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Contact -->
+    <section id="contact" class="contact-section">
+
+        <div class="container">
+
+            <div class="contact-content">
+
+                <p class="section-label">06</p>
+
+                <h2>Let's Connect</h2>
+
+                <p>
+                    I am interested in research opportunities and collaborations
+                    related to advanced materials, composite materials, soft
+                    materials, and computational mechanics.
+                </p>
+
+
+                <div class="contact-links">
+
+                    <!-- Replace these links with your actual information -->
+
+                    <a href="mailto:YOUR_EMAIL@usu.edu">
+                        Email
+                        <span>↗</span>
+                    </a>
+
+                    <a href="https://www.linkedin.com/"
+                       target="_blank">
+                        LinkedIn
+                        <span>↗</span>
+                    </a>
+
+                    <a href="https://github.com/"
+                       target="_blank">
+                        GitHub
+                        <span>↗</span>
+                    </a>
+
+                    <a href="assets/Pavel_Chowdhury_Resume.pdf"
+                       target="_blank">
+                        Resume
+                        <span>↗</span>
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <div class="container footer-container">
+
+            <p>
+                © <span id="year"></span> Pavel Chowdhury
+            </p>
+
+            <p>
+                Mechanical Engineering · Materials Research
+            </p>
+
+        </div>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
