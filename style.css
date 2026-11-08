@@ -521,7 +521,7 @@ a {
     font-size: 14px;
 }
 
-.experience-main > p:last-child {
+.experience-main > p {
     max-width: 750px;
     margin-top: 15px;
     color: var(--text-light);
